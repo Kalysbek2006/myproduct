@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="51febea7-f589-45d9-944d-b73eb184308a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/styleTwo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/Bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/MyProduct.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/comp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/comp.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/export.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/export.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/one.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/one.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-four.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-one.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-three.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/product-two.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/two.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/two.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/indexTwo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2WZWmwa0FoI4SXyyFcKFh8EDGHz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\WebstormProjects\myproduct\img" />
+      <recent name="C:\WebstormProjects\myproduct\img\MyProduct-two" />
+      <recent name="C:\WebstormProjects\myproduct\img\export\documents" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51febea7-f589-45d9-944d-b73eb184308a" name="Changes" comment="" />
+      <created>1696940745080</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696940745080</updated>
+      <workItem from="1696940746681" duration="5680000" />
+      <workItem from="1697098549112" duration="6738000" />
+      <workItem from="1697112506411" duration="1384000" />
+      <workItem from="1697208099515" duration="3940000" />
+      <workItem from="1697256558087" duration="8044000" />
+      <workItem from="1697279335162" duration="8777000" />
+      <workItem from="1697297900439" duration="299000" />
+      <workItem from="1697363080490" duration="17958000" />
+      <workItem from="1697523165227" duration="1002000" />
+      <workItem from="1697524274609" duration="290000" />
+      <workItem from="1697524755985" duration="118000" />
+      <workItem from="1697525723467" duration="111000" />
+      <workItem from="1697525898650" duration="15000" />
+      <workItem from="1697525999030" duration="11000" />
+      <workItem from="1697526504412" duration="19000" />
+      <workItem from="1697526609616" duration="11000" />
+      <workItem from="1697533292408" duration="20000" />
+      <workItem from="1697533403587" duration="22000" />
+      <workItem from="1697537288257" duration="1132000" />
+      <workItem from="1697539050357" duration="103000" />
+      <workItem from="1697539157583" duration="10000" />
+      <workItem from="1697539608588" duration="36000" />
+      <workItem from="1697541076051" duration="26000" />
+      <workItem from="1697541149893" duration="17000" />
+      <workItem from="1697541314995" duration="15000" />
+      <workItem from="1697541385746" duration="15000" />
+      <workItem from="1697541608363" duration="22000" />
+      <workItem from="1697542212005" duration="16000" />
+      <workItem from="1697542236135" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
